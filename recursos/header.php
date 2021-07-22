@@ -43,7 +43,6 @@
     <nav class="logo">       
         <ul class="menu">
             <li><a href="../index.php"> Home</a></li>
-            <li><a href="../vistas/Nosotros.php"> Nosotros</a></li>
             <li><a href="../vistas/Contacto.php"> Contacto</a></li>
             <li><a href="../vistas/Locales.php"> Locales</a></li>
             <li><a href="../vistas/Carta.php"> Carta</a>
@@ -52,7 +51,6 @@
                     <li><a href="https://drive.google.com/file/d/1RYWf3TEw5CuqHw_fIKHX3rWyZdIifdqB/view?fbclid=IwAR1uATKILRVp9z7nhJ08UhlKinEnUZv9VbC2_EyXhTEJ7bUCieZzVPBm-4M" target="_blank">Carta Chosica</a></li>
                 </ul>             
             </li>    
-            <li><a href="../vistas/Delivery.php"> Delivery</a></li>
         </ul>
     </nav>  
     </header>

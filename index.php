@@ -5,7 +5,7 @@
 <div class="container">
     <ul class="slider">
         <li id="slide1">
-            <img src="imagenes/belga1.png" alt="" width="1000px" height="500px">
+            <img src="imagenes/belga3.png" alt="" width="1000px" height="500px">
         </li>
         <li id="slide2">
             <img src="imagenes/belga2.png" alt="" width="1000px" height="500px">
