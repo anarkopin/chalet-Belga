@@ -30,6 +30,9 @@ if(isset($_POST['aceptar'])){
             <h3 class="bad">!Por favor completa los campos¡</h3>
             <?php
         }
+    } else if (isset($_POST['enviar'])) {
+
+
     }       
 
 ?>

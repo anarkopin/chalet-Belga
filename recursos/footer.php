@@ -11,7 +11,6 @@
         <h3>MAPA DEL SITIO</h3>
         <ul class="lista">
             <li><a href="../index.php">Home</a></li>
-            <li><a href="../vistas/Nosotros.php">Nosotros</a></li>
             <li><a href="../vistas/Contacto.php">Contacto</a></li>
             <li><a href="../vistas/Locales.php">Locales</a></li>
             <li><a href="../vistas/Carta.php">Carta</a>
@@ -30,7 +29,7 @@
         <img src="https://d3uqmu8cgrse7a.cloudfront.net/dist/client/img/3cdfe69.svg" alt="" width="64px" height="65px">
         <img src="https://d3uqmu8cgrse7a.cloudfront.net/dist/client/img/f81b40e.svg" alt="" width="64px" height="65px">
         <h3>LIBRO DE RECLAMACIONES</h3>
-        <img src="https://d3uqmu8cgrse7a.cloudfront.net/dist/client/img/3c486dc.jpg" alt="" width="112px" height="62px" id="libro">
+        <a href="../vistas/reclamos.php" target="_blank"><img src="https://d3uqmu8cgrse7a.cloudfront.net/dist/client/img/3c486dc.jpg" alt="" width="112px" height="62px" id="libro"></a>
         <H3>SIGUENOS EN:</H3>
         <a href="https://www.facebook.com/Chalet-Belga-pollo-de-leche-a-la-brasa-115344925246343" target="_blank"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5Mi4zODQiIGhlaWdodD0iOTIuMzcxIiB2aWV3Qm94PSIwIDAgOTIuMzg0IDkyLjM3MSI+PHBhdGggZD0iTTQ1Ny4wNDYsODMyLjM0NGE0Ni4xODUsNDYuMTg1LDAsMSwwLDQ2LjE5Myw0Ni4xODdBNDYuMTkxLDQ2LjE5MSwwLDAsMCw0NTcuMDQ2LDgzMi4zNDRaTTQ3MS42NTQsODU4LjhzLTQuNDI1LS4wMjQtNi4yMi0uMDI0Yy0zLjUyNSwwLTMuMjg0LDEuMzcyLTMuMjg0LDUuNzA5Vjg2Ny43aDkuNWwtMS43MSwxMS4yMjVoLTcuNzkzVjkwOS4xaC0xMy4yVjg3OC45MjdoLTYuNVY4NjcuN2g2LjV2LTkuMDM2YTEwLjY3OCwxMC42NzgsMCwwLDEsMy45OTItOC4xMjMsMTMuNCwxMy40LDAsMCwxLDguMDQzLTIuNThsMTAuNjcyLjAxOFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC00MTAuODU1IC04MzIuMzQ0KSIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==" alt="" width="30px" height="30px" ></a>
         <a href="https://www.facebook.com/Chalet-Belga-pollo-de-leche-a-la-brasa-115344925246343" target="_blank"><img src="https://d3uqmu8cgrse7a.cloudfront.net/dist/client/img/6707f50.svg" alt="" width="30px" height="30px"></a>
