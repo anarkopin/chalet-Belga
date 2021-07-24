@@ -64,10 +64,12 @@ if(isset($_POST['aceptar'])){
         $insertarDatos = "INSERT INTO reclamaciones(nombre, apellido, direccion, distrito, documento_identidad, numero_documento, correo, telefeno_alternativo, nombre_papa, monto_reclamo, producto_servicio, descripcion,id) VALUES ('$nombre','$apellido','$direccion','$distrito','$documento_iden','$numero_documento','$correo','$telefono_dos','$nombre_papa','$monto_reclamo','$pro_ser','$descripcion', '$id')";
 
         $ejecutaInsertar = mysqli_query($enlace, $insertarDatos);
-
+       
         if ($ejecutaInsertar) {
             ?>
-            <h3 class="ok">Gracias por ponerte en contacto con nosotros, tu opinion es valiosa</h3>
+            <div class="alert alert-danger">
+                <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+            </div>
             <?php
         
         } else {
@@ -78,10 +80,11 @@ if(isset($_POST['aceptar'])){
 
     } else {
         ?>
-        <h3 class="bad">!Por favor completa los campos¡</h3>
+        <div class="alert alert-danger text-center">
+            <strong>!Por favor completa los campos¡</strong> 
+        </div>
+        <h3 class="bad"></h3>
         <?php
     }
-
 }       
-
 ?>
