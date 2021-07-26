@@ -12,8 +12,8 @@
 </head>
 <body>
 	<div class="row">
-		<div class="col"></div>
-		<div class="col-lg-6">
+		
+		<div class="col-lg-12">
 			<div class="container">
 				<h1 class="text-center">Libro de reclamaciones</h1>
 				<form class="col-12 col-sm-offset-3" method="POST">
@@ -92,8 +92,7 @@
 									
 									<!-- Modal body -->
 									<div class="modal-body">
-										Sabemos que hicimos algo mal y por eso estas aqui, aunque tratamos cada dia de mejorar para brindarte un mejor servicio
-										... A veces tambien cometemos errores y todo lo expresado por ti, nos es util para seguir creciendo como organizacion. 
+										Sabemos que estas aquí porque algo te ha disgustado. Aunque tratamos de mejorar cada día para brindarte un mejor servicio... A veces surgen dificultades en el camino y todo lo expresado por ti, nos es útil para seguir avanzar como organizacion, donde tú, eres lo mas importante. 
 										Responderemos tu reclamo lo mas rapido posible.
 									</div>
 									<!-- Modal footer -->
@@ -111,27 +110,11 @@
 
 				</form>
 				<p>&nbsp;</p>
-
 			</div>
 		</div>
-		<div class="col"></div>
+		
 	</div>
-
-
-
-
-
-
-
-
-
-
-
-
 </body>
-
-
-
 </html>
 <?php 	
     require_once('../recursos/agregar.php');

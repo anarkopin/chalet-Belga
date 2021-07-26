@@ -67,17 +67,17 @@ if(isset($_POST['aceptar'])){
        
         if ($ejecutaInsertar) {
             ?>
-            <div class="alert alert-danger">
-                <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+            <div class="alert alert-success text-center">
+                <strong>Gracias! Evaluaremos tu reclamo y nos pondremos en contacto contigo lo antes posible</strong>
             </div>
             <?php
-        
         } else {
             ?>
-            <h3 class="bad">¡Ups ha ocurrido un error!</h3>
+            <div class="alert alert-warning text-center">
+                <strong>No esta habiendo conexion con el servidor</strong>
+            </div>
             <?php
         }
-
     } else {
         ?>
         <div class="alert alert-danger text-center">

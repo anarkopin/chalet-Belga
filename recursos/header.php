@@ -10,6 +10,8 @@
 <script src="https://kit.fontawesome.com/13021aafb5.js" crossorigin="anonymous"></script>
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" media="only screen and (min-width:501px) and (max-width:800px)" href="estilos/mediumLayout.css">
+<link rel="stylesheet" type="text/css" media="only screen and (min-width:50px) and (max-width:500px)" href="estilos/smallLayout.css">
 
 <link
     rel="stylesheet"
